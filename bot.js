@@ -41,7 +41,7 @@ client.on('interactionCreate', async (interaction) => {
     if (response) {
       const embed = new Discord.MessageEmbed()
         .setColor('#00ff00')
-        .setTitle('Minecraft Bedrock Server Status')
+        .setTitle('Server Status')
         .addField('Server IP', serverIP)
         .addField('Server Port', serverPort)
         .addField('Version', response.version)
@@ -64,11 +64,11 @@ client.on('interactionCreate', async (interaction) => {
   } else if (commandName === 'ip') {
     const embed = new Discord.MessageEmbed()
       .setColor('#00ff00')
-      .setTitle('Minecraft Server IP and Port')
+      .setTitle('Server IP and Port')
       .addField('IP', serverIP)
       .addField('Port', serverPort)
-      .addField('Version', '1.12x - 1.19x')
-      .setFooter('Made with 💖 by @xafeltix | This embed is updated every 30 seconds')
+      .addField('Version', '1.19x')
+      .setFooter('Made with 💖 by @xafeltix')
       .setTimestamp();
 
     const channel = await interaction.client.channels.fetch(channelID);
