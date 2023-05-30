@@ -4,4 +4,4 @@ An Advanced Minecraft Bedrock Server Status Bot Originally Made for Zeltix Netwo
 Made with 💖 by @xafeltix
 
 
-Note: If you want to use this code please edit every part necessay except the footer :)
+Note: If you want to use this code please edit every part necessary except the footer :)
