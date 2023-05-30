@@ -2,7 +2,7 @@
   "token": "YOUR_DISCORD_BOT_TOKEN",
   "applicationID": "YOUR_APPLICATION_ID",
   "serverID": "YOUR_SERVER_ID",
-  "serverIP": "zeltix.ml",
-  "serverPort": 55558,
+  "serverIP": "YOUR_SERVER_IP",
+  "serverPort": 19132,
   "channelID": "YOUR_CHANNEL_ID"
 }
