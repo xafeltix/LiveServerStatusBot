@@ -1,5 +1,5 @@
 # StatusBot
-An Advanced Minecraft Bedrock Server Status Bot
+An Advanced Minecraft Bedrock Server Status Bot Originally Made for Zeltix Network *(https://dsc.gg/zel)*
 
 Made with 💖 by @xafeltix
 
